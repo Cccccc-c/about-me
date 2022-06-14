@@ -2,7 +2,7 @@
 - 👋Hello everyone, my name is @zhangchenchen-novauto.
 - 👀I am interested in hiking.
 - 🌱 I am learning C++.
-- 💞️I am looking for a way to make money.
+- 💞️I am looking for a way to make ***.
 - 📫 You can contact me by my email chenchen.zhang@novauto.com.cn. 
 
 <!---
